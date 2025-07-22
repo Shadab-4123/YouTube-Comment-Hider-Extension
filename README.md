@@ -1,0 +1,1 @@
+# YouTube-Comment-Hider-Extension
