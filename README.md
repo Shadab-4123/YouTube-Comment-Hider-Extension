@@ -12,21 +12,6 @@ A simple and effective Chrome extension that hides the comment section on YouTub
 
 ---
 
-## 📁 Folder Structure
-
-youtube-comment-hider/
-├── manifest.json
-├── content.js
-├── popup.html
-├── popup.js
-└── icons/
-├── icon16.png
-├── icon48.png
-└── icon128.png
-
-
----
-
 ## ⚙️ Installation Instructions
 
 1. **Download or clone this repository** to your local machine.
